@@ -14,9 +14,7 @@
     border-bottom-right-radius: 15px;
     font-family: 'Brush Script MT';
 }
-.photoAndText{
-    display: inline-block;
-}
+
 #introductionText{
     color:white;
     padding:50px;
