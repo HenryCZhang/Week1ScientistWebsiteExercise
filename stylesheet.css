@@ -13,6 +13,7 @@
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     font-family: 'Brush Script MT';
+    font-size: 60px;
 }
 
 #introductionText{
@@ -57,7 +58,6 @@ table, td{
 }
 .containerArticle h1{
     margin-bottom: 20px;
-
 }
 .containerArticle .articleNames{
     font-weight: bold;
@@ -83,4 +83,19 @@ table, td{
 #articleText3{
     padding:15px 0;
     font-size: 20px;
+}
+
+footer{
+    background-color: rgb(247, 184, 67);
+}
+footer h1{
+    font-family: 'Brush Script MT';
+    text-align: center;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    margin:0 35%;
+    padding-top:10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
 }
